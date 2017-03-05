@@ -1,0 +1,82 @@
+.navr{
+	background-color: orange;
+}
+
+li {
+	color: linen;
+	display: inline-block;
+	list-style: none;
+	text-align: right;
+	
+}
+/*input [type=text]{
+	width:121px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: lightgrey;
+	background-image: url('serch.png');
+	background-position: no-repeat;
+
+}*/
+
+.serch{
+	text-align: right;
+    background-color: white;
+    background-image: url('serch.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}
+
+
+
+
+p{
+	color: lightslategrey;
+	text-align: center;
+	font-size: 24px;
+	font-family: cursive;}
+
+/*#tite {*/
+	/*color: cyan;*/
+/*}*/
+
+span {
+	color: cyan;
+}
+
+.butts {
+	/*height: 25px;*/
+	color: white;
+	text-align: center;
+	display: block;
+}
+
+#butt2 {
+	color: white;
+	background-color: orange;
+}
+
+#butt1 {
+	color: white;
+	background-color: cyan;
+}
+
+.foot {
+background-color: cyan;
+height: 100px;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
